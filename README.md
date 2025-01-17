@@ -9,6 +9,6 @@
 # Manual building
 
 1. Install [rust](https://rustup.rs/)
-1. Clone the repo: `git clone https://github.com/jacksonn97/intern-test-task`
+1. Clone the repo: `git clone https://github.com/jacksonn97/intern-test-task` or use [download](https://github.com/jacksonn97/intern-test-task/archive/refs/heads/master.zip) button
 1. Build and run project: `cargo run -- -F <number> -N <number>`
 1. Enjoy results!
