@@ -9,3 +9,7 @@ anyhow = "1.0.95"
 clap = { version = "4.5.24", features = ["cargo"] }
 rand = "0.8.5"
 sha256 = "1.5.0"
+
+[profile.release]
+strip = true
+lto = true
